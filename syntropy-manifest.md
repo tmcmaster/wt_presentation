@@ -1,35 +1,29 @@
 ---
-project:
-  name: "wt_presentation"
-  description: "Flutter component to help present ideas" # Escape double quotes in description
-  author: "Tim McMaster"
-  version: "0.1.0"
-
-origin:
-  repo_type: "original"
-  git_url: "https://github.com/tmcmaster/wt_presentation"
-  created: "2023-04-15"
-  modified: "2025-05-29"
-
-classification:
-  status: "unsorted"
-  engagement: "shelved"
-  priority: "low"
-  intent: []
-  domain: []
-  audience: "personal"
-
-stack:
-  languages: []
-  frameworks: []
-  databases: []
-  infrastructure: []
-  cloud: "none"
-
-capabilities:
-  features: []
-
-syntropy_id: ""
-collections: []
-tags: []
+Title: wt_presentation
+Description: Flutter component to help present ideas
+Author: Tim McMaster
+Created: '2023-04-15'
+Modified: '2025-05-29'
+Status: concept
+Engagement: back-burner
+Audience: personal
+Priority: sometime
+Version: 0.1.0
+Repo-Type: original
+Repo-Author: tmcmaster
+Repo-Name: wt_presentation
+Intent: []
+Domain: []
+Languages:
+- Kotlin
+- Ruby
+- Swift
+- Objective-C
+- Dart
+- HTML
+Frameworks: []
+Databases: []
+Infrastructure: []
+Features: []
 ---
+
